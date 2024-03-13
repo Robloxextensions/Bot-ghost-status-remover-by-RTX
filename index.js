@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over MOTD"];
+const statusMessages = ["Retiring on 3/14/24"];
 
 
 let currentIndex = 0;
