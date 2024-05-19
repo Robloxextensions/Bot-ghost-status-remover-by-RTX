@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Retiring on 3/14/24"];
+const statusMessages = ["Watching over auth keys"];
 
 
 let currentIndex = 0;
