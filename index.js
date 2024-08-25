@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching over Roblox Storm"];
+const statusMessages = ["Watching over Roblox Bird"];
 
 
 let currentIndex = 0;
